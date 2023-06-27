@@ -1,8 +1,8 @@
 # Food Festival
 
-(Progressive Web Applications (PWA) project)
+Progressive Web Application (PWA)
 
-- Convert a web application to a PWA, optimize the app's assets for performance, set up webpack in a front-end project, and use service workers to cache assets for offline functionality.
+An existing web application designed for a food festival
 
 ## Application
 
@@ -19,11 +19,7 @@
 
 ![](./assets/img/demo2.gif)
 
-## Screenshot
-
 <!-- ![](./assets/img/demo.jpg) -->
-<img src="./assets/img/demo.jpg" width=75% height=75%>
-<img src="./assets/img/demo3.jpg" width=75% height=75%>
 
 ## Contributor
 
