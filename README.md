@@ -17,7 +17,7 @@ An existing web application designed for a food festival
 
 ## Demo
 
-![](./assets/img/demo2.gif)
+![](./assets/img/demo.gif)
 
 <!-- ![](./assets/img/demo.jpg) -->
 
